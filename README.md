@@ -4,7 +4,7 @@ Exploring a Home Sales dataset using SparkSQL
 
 ## Data
 
-[Link to home sales CSV]() 
+![Link to home sales CSV](https://github.com/StarkArk/home_sales_in_sparksql/blob/main/Resources/home_sales.csv) 
 
 Data Columns:
 - id: 
@@ -17,4 +17,8 @@ Data Columns:
 - sqft_lot: square footage of the property plot 
 - floors: # of floors
 - waterfront: "1" is yes
-- view: subjective rating from 1-100 
+- view: subjective rating from 1-100  
+  
+## Refererences  
+    
+Data for this project was provided by edX Boot Camps LLC.
